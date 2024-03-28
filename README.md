@@ -2,7 +2,7 @@ Mastering python
 
 Learning Java
 
-plan to learn javascript and C
+plan to learn javascript and Rust
 
 email - mail.almirshaikh@gmail.com
 
